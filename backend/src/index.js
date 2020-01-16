@@ -4,7 +4,7 @@ const routes = require('./routes');
 
 const app = express();
 
-mongoose.connect('mongodb+srv://devradar:swdtQNV8LDyo10KE@cluster0-ekgq0.mongodb.net/devradar?retryWrites=true&w=majority',{
+mongoose.connect('mongodb+srv://devradar:<password>@cluster0-ekgq0.mongodb.net/devradar?retryWrites=true&w=majority',{
     useNewUrlParser: true,
     useUnifiedTopology: true,
     useFindAndModify: false,
