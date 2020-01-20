@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "mobile",
-    "slug": "mobile",
+    "name": "app-mobile",
+    "slug": "app-mobile",
     "privacy": "public",
     "sdkVersion": "36.0.0",
     "platforms": [
